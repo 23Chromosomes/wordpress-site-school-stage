@@ -1,0 +1,48 @@
+
+---- Processing WordPress Page - for Beaver Builder ---- "45"
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/hero-bg.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/hero-bg.jpg
+Log - {"url":"https:\/\/websitedemos.net\/outdoor-adventure-01\/wp-content\/uploads\/sites\/354\/2018\/12\/hero-bg.jpg","id":"293"}
+Inserted - Post 46 - attachment - hero-bg.jpg
+BATCH - SUCCESS Image {Imported} - http://127.0.0.1/wordpress/wp-content/uploads/2020/10/hero-bg.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/11/quote-1.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/11/quote-1.png
+Log - {"url":"https:\/\/websitedemos.net\/outdoor-adventure-01\/wp-content\/uploads\/sites\/354\/2018\/11\/quote-1.png","id":"132"}
+Inserted - Post 47 - attachment - quote-1.png
+BATCH - SUCCESS Image {Imported} - http://127.0.0.1/wordpress/wp-content/uploads/2020/10/quote-1.png
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2020/01/hiking-v1.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2020/01/hiking-v1.jpg
+Log - {"url":"https:\/\/websitedemos.net\/outdoor-adventure-01\/wp-content\/uploads\/sites\/354\/2020\/01\/hiking-v1.jpg","id":"433"}
+Inserted - Post 48 - attachment - hiking-v1.jpg
+BATCH - SUCCESS Image {Imported} - http://127.0.0.1/wordpress/wp-content/uploads/2020/10/hiking-v1.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2020/01/walking-v1.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2020/01/walking-v1.jpg
+Log - {"url":"https:\/\/websitedemos.net\/outdoor-adventure-01\/wp-content\/uploads\/sites\/354\/2020\/01\/walking-v1.jpg","id":"434"}
+Inserted - Post 49 - attachment - walking-v1.jpg
+BATCH - SUCCESS Image {Imported} - http://127.0.0.1/wordpress/wp-content/uploads/2020/10/walking-v1.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2020/01/section-bg-img.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2020/01/section-bg-img.jpg
+Log - {"url":"https:\/\/websitedemos.net\/outdoor-adventure-01\/wp-content\/uploads\/sites\/354\/2020\/01\/section-bg-img.jpg","id":"435"}
+Inserted - Post 50 - attachment - section-bg-img.jpg
+BATCH - SUCCESS Image {Imported} - http://127.0.0.1/wordpress/wp-content/uploads/2020/10/section-bg-img.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/snow.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/snow.jpg
+Log - {"url":"https:\/\/websitedemos.net\/outdoor-adventure-01\/wp-content\/uploads\/sites\/354\/2018\/12\/snow.jpg","id":"298"}
+Inserted - Post 51 - attachment - snow.jpg
+BATCH - SUCCESS Image {Imported} - http://127.0.0.1/wordpress/wp-content/uploads/2020/10/snow.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/image-1.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/image-1.jpg
+Log - {"url":"https:\/\/websitedemos.net\/outdoor-adventure-01\/wp-content\/uploads\/sites\/354\/2018\/12\/image-1.jpg","id":"299"}
+Inserted - Post 52 - attachment - image-1.jpg
+BATCH - SUCCESS Image {Imported} - http://127.0.0.1/wordpress/wp-content/uploads/2020/10/image-1.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/snow-1.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/snow-1.jpg
+Log - {"url":"https:\/\/websitedemos.net\/outdoor-adventure-01\/wp-content\/uploads\/sites\/354\/2018\/12\/snow-1.jpg","id":"300"}
+Inserted - Post 53 - attachment - snow-1.jpg
+BATCH - SUCCESS Image {Imported} - http://127.0.0.1/wordpress/wp-content/uploads/2020/10/snow-1.jpg
+Source - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/mountain-3.jpg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/outdoor-adventure-01/wp-content/uploads/sites/354/2018/12/mountain-3.jpg
+Log - {"url":"https:\/\/websitedemos.net\/outdoor-adventure-01\/wp-content\/uploads\/sites\/354\/2018\/12\/mountain-3.jpg","id":"301"}
+Inserted - Post 54 - attachment - mountain-3.jpg
+BATCH - SUCCESS Image {Imported} - http://127.0.0.1/wordpress/wp-content/uploads/2020/10/mountain-3.jpg
+Complete 
