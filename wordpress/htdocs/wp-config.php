@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'bitnami_wordpress' );
+define( 'DB_NAME', 'stage-rsd' );
 
 /** MySQL database username */
-define( 'DB_USER', 'bn_wordpress' );
+define( 'DB_USER', 'stage-rsd' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'a87362331b' );
+define( 'DB_PASSWORD', 'jrjc7aNfDqoCCPGF!' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost:3306' );
@@ -92,8 +92,8 @@ if ( defined( 'WP_CLI' ) ) {
     $_SERVER['HTTP_HOST'] = 'localhost';
 }
 
-define('WP_SITEURL', 'http://' . $_SERVER['HTTP_HOST'] . '/wordpress');
-define('WP_HOME', 'http://' . $_SERVER['HTTP_HOST'] . '/wordpress');
+define('WP_SITEURL', 'https://rsd.stage.curio.codes');
+define('WP_HOME', 'https://rsd.stage.curio.codes');
 
 
 /** Absolute path to the WordPress directory. */
